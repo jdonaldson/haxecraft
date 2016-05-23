@@ -19,4 +19,3 @@ You should now be able to execute commands from the Wow chat panel.  Try:
 This will either greet or threaten the current target based on its enemy status.
 You should also see message text with a corresponding announcement.
 
-
