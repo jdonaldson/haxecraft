@@ -1,0 +1,5 @@
+## Interface: 60200
+## Title: Hello, Lua!
+## Notes: My first Haxe compiled AddOn
+HelloLua.lua
+HelloLua.xml
