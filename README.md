@@ -1,4 +1,4 @@
-# LuaCraft
+# HaxeCraft 
 
 A simple demo for haxe/lua scripting in World of Warcraft.
 
