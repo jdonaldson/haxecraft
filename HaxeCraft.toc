@@ -1,5 +1,5 @@
 ## Interface: 60200
-## Title: Hello, Lua!
+## Title: HaxeCraft! 
 ## Notes: My first Haxe compiled AddOn
-HelloLua.lua
-HelloLua.xml
+HaxeCraft.lua
+HaxeCraft.xml

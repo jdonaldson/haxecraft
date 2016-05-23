@@ -1,5 +1,5 @@
 @:expose
-class HelloLua {
+class HaxeCraft {
     @:expose("greetings")
     public static function greetings(){
         if (Wow.UnitIsEnemy("player", "target")){
